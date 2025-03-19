@@ -1,3 +1,21 @@
+## APP DESCRIPTION
+Open AI's Responses API (File Search) Full AI Chat Agent - Clone Yourself Chatbot
+
+Built by following this tutorial: https://youtu.be/PTC_2fYDrwI?si=uK6dpP-dWbMWTRIf
+
+
+Tech Stack:
+```
+Next.js
+Tailwind CSS
+Typescript
+Shadcn
+Lucide
+OpenAI's Responses API (File Search)
+OpenAI's Vector Store
+Firecrawl.dev (to crawl my website and populate my vectore store) 
+```
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
