@@ -1,7 +1,7 @@
 ## APP DESCRIPTION
 Open AI's Responses API (File Search) Full AI Chat Agent - Clone Yourself Chatbot
 
-Built by following this tutorial: https://youtu.be/PTC_2fYDrwI?si=uK6dpP-dWbMWTRIf
+To build this, follow this tutorial: https://youtu.be/PTC_2fYDrwI?si=uK6dpP-dWbMWTRIf
 
 
 Tech Stack:
